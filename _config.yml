@@ -5,8 +5,8 @@ title:       What I have learnt
 email:       u.m.chapter@gmail.com
 author:      An Jihoon
 description: "What I have learnt"
-baseurl:     "https://github.com/umchapter/what_I_have_learnt"
-url:         "https://umchapter.github.io/"
+baseurl:     ""
+url:         "https://juniortheme.live/"
 date_format: "%b %-d, %Y"
 
 # Google services
