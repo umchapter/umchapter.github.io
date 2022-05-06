@@ -1,10 +1,10 @@
 ######################################
 ## Site settings                    ##
 ######################################
-title:       Junior Theme
-email:       jonathon.bel.melbourne@gmail.com
-author:      Jonathon Belotti
-description: "A striking black-white Jekyll theme."
+title:       What I have learnt
+email:       u.m.chapter@gmail.com
+author:      An Jihoon
+description: "What I have learnt"
 baseurl:     ""
 url:         "https://juniortheme.live/"
 date_format: "%b %-d, %Y"
