@@ -71,17 +71,17 @@ flattr_button:
 ###################################
 ## Post sharing icons            ##
 ###################################
-show_sharing_icons: True
+show_sharing_icons: False
 # Change to 'true' to enable individual icons
-share_facebook: True
-share_twitter: True
-share_googleplus: True
+share_facebook: False
+share_twitter: False
+share_googleplus: False
 share_linkedin: false
 share_digg: false
 share_tumblr: false
-share_reddit: True
+share_reddit: False
 share_stumbleupon: false
-share_hackernews: True
+share_hackernews: False
 
 text:
   pagination:
